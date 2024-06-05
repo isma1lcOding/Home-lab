@@ -1,2 +1,7 @@
-# Home-lab
-using Kali linux 0S , Windows OS and php , Python to create scripts.
+#Home-Lab
+Requirements:
+Python 3. x
+Scapy library
+
+1) git clone 
+2) Sudo Python network_scan.py
