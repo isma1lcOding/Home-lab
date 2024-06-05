@@ -2,6 +2,5 @@ Network-scan.py  is a Python script for scanning the local network to discover c
 Requirements:
 Python 3. x
 Scapy library
-
 1) git clone https://github.com/isma1lcOding/Network-Scanning
 2) Sudo Python network_scan.py
